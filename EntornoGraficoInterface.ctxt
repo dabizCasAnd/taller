@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=EntornoGraficoInterface
+comment0.text=\r\n\ Write\ a\ description\ of\ interface\ EntornoGraficoInterface\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=void\ startEntorno()
+comment1.text=\r\n\ An\ example\ of\ a\ method\ header\ -\ replace\ this\ comment\ with\ your\ own\r\n\r\n\ @param\ \ y\ a\ sample\ parameter\ for\ a\ method\r\n\ @return\ \ \ the\ result\ produced\ by\ sampleMethod\r\n
+comment2.params=
+comment2.target=void\ stopEntorno()
+comment2.text=\r\n\ An\ example\ of\ a\ method\ header\ -\ replace\ this\ comment\ with\ your\ own\r\n\r\n\ @param\ \ y\ a\ sample\ parameter\ for\ a\ method\r\n\ @return\ \ \ the\ result\ produced\ by\ sampleMethod\r\n
+comment3.params=numMenu
+comment3.target=void\ showMenuNuevo(int)
+comment3.text=\r\n\ An\ example\ of\ a\ method\ header\ -\ replace\ this\ comment\ with\ your\ own\r\n\r\nsd\r\n\ @return\ \ \ the\ result\ produced\ by\ sampleMethod\r\n
+comment4.params=info
+comment4.target=void\ showPanelNuevo(java.lang.String)
+comment4.text=\r\n\ An\ example\ of\ a\ method\ header\ -\ replace\ this\ comment\ with\ your\ own\r\n\r\n\ @param\ \ y\ a\ sample\ parameter\ for\ a\ method\r\n\ @return\ \ \ the\ result\ produced\ by\ sampleMethod\r\n
+numComments=5
